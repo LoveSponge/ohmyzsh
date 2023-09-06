@@ -6,4 +6,4 @@
 	url = https://github.com/zsh-users/zsh-autosuggestions
 [submodule "zsh-autocomplete"]
 	path = custom/plugins/zsh-autocomplete
-	url = https://github.com/marlonrichert/zsh-autocomplete
+	url = https://github.com/marlonrichert/zsh-autocomplete.git
